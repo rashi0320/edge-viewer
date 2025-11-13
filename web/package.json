@@ -1,0 +1,10 @@
+{
+  "name": "edge-viewer-web",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "tsc --outDir dist"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
