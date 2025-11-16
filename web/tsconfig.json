@@ -1,9 +1,0 @@
-{
-  "compilerOptions": {
-    "target": "ES2015",
-    "module": "none",
-    "outFile": "dist/bundle.js",
-    "strict": true
-  },
-  "files": ["src/index.ts"]
-}

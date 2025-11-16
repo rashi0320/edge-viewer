@@ -1,3 +1,0 @@
-# Put a data URL here like:
-# data:image/png;base64,iVBORw0KGgoAAAANS...
-# Or set localStorage['sample_frame_base64'] with that string.
