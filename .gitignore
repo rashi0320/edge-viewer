@@ -1,0 +1,19 @@
+# Gradle
+/.gradle/
+/build/
+/app/build/
+
+# Local configuration
+/local.properties
+
+# IDE files
+/.idea/
+/*.iml
+
+# NDK / CMake
+/.cxx/
+/captures/
+
+# Android SDKs you don’t want in repo
+/OpenCV-android-sdk/
+

@@ -1,0 +1,5 @@
+# ninja log v5
+3028	3146	1763274515513918756	/home/piyush/AndroidStudioProjects/EdgeViewer/app/build/intermediates/cxx/Debug/14s6r5v6/obj/x86_64/libedgeviewer.so	b198047b35b62677
+0	3019	1763274515382912617	CMakeFiles/edgeviewer.dir/native-lib.cpp.o	f5b1a92c42937f18
+1	766	1763288549788489568	CMakeFiles/native-lib.dir/native-lib.cpp.o	e06aee507666099d
+766	808	1763288549832490545	/home/piyush/AndroidStudioProjects/EdgeViewer/app/build/intermediates/cxx/Debug/14s6r5v6/obj/x86_64/libnative-lib.so	e7f4df8bd28aa7a1
